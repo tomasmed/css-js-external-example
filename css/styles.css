@@ -1,13 +1,1 @@
-main {
-    padding: 60px 40px;
-}
-
-.display {
-    padding: 6px;
-    font-size: 8em;
-}
-
-button {
-    padding: 6px 12px;
-    font-size: 1em;
-}
+#map { height: 900px; }
